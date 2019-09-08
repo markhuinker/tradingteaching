@@ -1,0 +1,25 @@
+{
+  "name": "tradingteaching",
+  "version": "1.0.0",
+  "description": "A trading game that lets students trade how they feel they will succeed in a class as if it was another stock in the stock market.",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/markhuinker/tradingteaching"
+  },
+  "keywords": [
+    "Investing",
+    "School",
+    "Trading",
+    "Teachers",
+    "Students"
+  ],
+  "author": "Mark Huinker",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
